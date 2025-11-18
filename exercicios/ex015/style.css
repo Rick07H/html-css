@@ -1,0 +1,25 @@
+@charset "UTF-8";
+        h1 {
+            color: blue;
+            background-color: beige;
+        }
+
+        h2 {
+            color: rgb(94, 100, 184);
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            text-align: justify;
+        }
+
+        body {
+
+            background-color: rgb(143, 170, 171);
+        }
+        
+        a {
+            color: darkred;
+            text-decoration: none;
+        }

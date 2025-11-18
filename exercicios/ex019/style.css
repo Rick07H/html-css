@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    background-color: #918686;
+}
+
+#principal {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: #c41414;
+    border-radius: 10px;
+}
+
+.HTML {
+    color: orange;
+    text-align: left;
+}
+
+.CSS {
+    color: blue;
+    text-align: left;
+}
+
+h1 {
+    color: rgb(95, 48, 152);
+}
+
+h2 {
+    color: rgb(11, 6, 16);
+    text-align: center;
+}
